@@ -1,6 +1,9 @@
 package com.makersharks.repository;
 
 import com.makersharks.model.Supplier;
+import com.makersharks.models.ManufacturingProcess;
+import com.makersharks.models.NatureOfBusiness;
+
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
